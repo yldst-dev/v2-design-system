@@ -17,9 +17,8 @@ V2 Design System은 Dioxus를 더 빠르게 활용하기 위한 UI/UX 디자인 
 
 - `src/`: Dioxus 기반 디자인 시스템 컴포넌트와 쇼케이스 화면
 - `assets/`: 공통 스타일과 정적 리소스
-- `app/`: Next.js 기반 참고 구조
-- `design-system2.tsx`: 원본 포팅 및 구조 비교용 소스
-- `scripts/`: 마이그레이션과 보조 스크립트
+- `Cargo.toml`: Rust 패키지 설정
+- `Dioxus.toml`: Dioxus 애플리케이션 설정
 
 ## 실행
 
@@ -34,17 +33,6 @@ cargo run
 ```bash
 cargo check
 ```
-
-## 대상 사용 사례
-
-- Dioxus 앱을 빠르게 시작하려는 경우
-- 공통 UI 컴포넌트를 체계적으로 관리하려는 경우
-- UI/UX 시안을 실제 컴포넌트 구조로 옮기려는 경우
-- 디자인 시스템을 기준으로 화면을 확장하려는 경우
-
-## 메모
-
-현재 프로젝트 이름은 `V2 Design System`이며, 화면과 설정 전반에서 동일한 이름 기준을 사용합니다.
 
 ## 라이선스
 
