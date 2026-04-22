@@ -1,0 +1,5 @@
+[application]
+name = "v2-design-system"
+
+[web.app]
+title = "V2 Design System"

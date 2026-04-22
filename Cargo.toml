@@ -1,0 +1,8 @@
+[package]
+name = "v2-design-system"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dioxus = { version = "0.7.5", features = ["desktop"] }
+tokio = { version = "1", features = ["time", "rt", "macros"] }
