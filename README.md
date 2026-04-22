@@ -1,5 +1,7 @@
 # V2 Design System
 
+![V2 Design System Thumbnail](docs/thumbnail.png)
+
 V2 Design System은 Dioxus를 더 빠르게 활용하기 위한 UI/UX 디자인 컴포넌트 시스템 모음집입니다.
 
 이 프로젝트는 버튼, 입력 필드, 선택형 컨트롤, 데이터 표시, 모달, 드로어, 토스트 같은 공통 인터페이스 요소를 한곳에 모아 두고, Dioxus 환경에서 바로 가져다 쓸 수 있도록 구성한 디자인 시스템 쇼케이스이자 컴포넌트 라이브러리입니다.
